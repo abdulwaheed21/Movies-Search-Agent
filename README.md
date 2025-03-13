@@ -106,7 +106,6 @@ streamlit run main.py
 ✅ **Enhance AI query understanding** for even smarter responses  
 ✅ **Multi-language support** for global users  
 
----
 
 ## Contributing
 
