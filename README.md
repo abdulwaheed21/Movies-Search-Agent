@@ -117,6 +117,3 @@ If you have **any issues or suggestions**, open an issue, and I’ll be happy to
 ## 📜 License
 
 This project is **open-source** and free to use. Feel free to modify and enhance it! 🎬🔥  
-```
-
----
