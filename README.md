@@ -68,21 +68,21 @@ streamlit run main.py
 
 ### **AI Output:**
 ```
-🎬 **Title:** The Dark Knight  
+🎬 Title: The Dark Knight  
 
-⭐ **IMDb Rating:** 9.0  
+⭐ IMDb Rating: 9.0  
 
-🎭 **Genre:** Action, Crime, Drama  
+🎭 Genre: Action, Crime, Drama  
 
-📅 **Release Date:** July 18, 2008  
+📅 Release Date: July 18, 2008  
 
-🎭 **Actors:** Christian Bale, Heath Ledger, Aaron Eckhart  
+🎭 Actors: Christian Bale, Heath Ledger, Aaron Eckhart  
 
-🎬 **Director:** Christopher Nolan  
+🎬 Director: Christopher Nolan  
 
-🎥 **Trailer:** [Watch Here](https://www.youtube.com/watch?v=EXeTwQWrcwY)  
+🎥 Trailer: [Watch Here](https://www.youtube.com/watch?v=EXeTwQWrcwY)  
 
-📝 **Summary:** The Dark Knight follows Batman as he battles the Joker, a criminal mastermind seeking to create chaos in Gotham. The film explores themes of morality and heroism, with a stunning performance by Heath Ledger.
+📝 Summary: The Dark Knight follows Batman as he battles the Joker, a criminal mastermind seeking to create chaos in Gotham. The film explores themes of morality and heroism, with a stunning performance by Heath Ledger.
 ```
 
 ---
@@ -114,7 +114,6 @@ Want to improve this project? Feel free to fork, modify, and send a pull request
 
 If you have **any issues or suggestions**, open an issue, and I’ll be happy to help.  
 
----
 
 ## 📜 License
 
